@@ -9,4 +9,3 @@ How do forest fires/the impacts of deforestation affect the following factors: t
 * Forest Related Data: https://data-api.globalforestwatch.org/
 * Weather Realted Data: https://openweathermap.org/api
 * Burn Impact and Heat Response: https://m2m.cr.usgs.gov/
-ß
