@@ -7,9 +7,9 @@ How do forest fires/the impacts of deforestation affect the following factors: t
 Data was collected from the following sources:
 - Fire detection areas
     - NASA Fire Information for Resource Management System: https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/
-    - Automated retrieval of files in the 2015-2025 time range (code is given below for implementation)
+    - Automated retrieval of files in the 2015-2025 time range (code is given in `data.ipynb` for implementation)
 - General forest related data
     - Global Forest Watch tree cover and fire alert data downloaded from dashboards: https://www.globalforestwatch.org/
 - Weather data
-    - Climate Data Store API (code is given below for implementation)
+    - Climate Data Store API (code is given in `data.ipynb` for implementation)
     
